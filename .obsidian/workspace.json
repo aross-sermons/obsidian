@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "31f8c447e4a715a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cb9db268b4fe84a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a009031ccfad8ed2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CheatSheets/MathJax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3cbf7bff1606fc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Home Automation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a049981fcbb8de0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Manifesto/Fast Fashion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e187d495c13c48c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a85c90b8067616fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "825eaf07e3937a7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ea3ebc5e6dedff6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b1a05e97771cce0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4281d997de7af821",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "65c9bdf135b612b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "555adc2a1361f53c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94005a7a58b2d534",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Manifesto/Fast Fashion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f105344e4718b577",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Manifesto/Fast Fashion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93cf67d37dc4fcfc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bcbe179f88bb9e8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Manifesto/Fast Fashion.md"
+              }
+            }
+          },
+          {
+            "id": "8100e4e6759a28fa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "bbb23c8db600e8ab",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4a049981fcbb8de0",
+  "lastOpenFiles": [
+    "Projects/ESP32 Wireless Audio.md",
+    "Projects/Home Automation.md",
+    "Guides/Home Automation/Home Assist.md",
+    "Guides/Home Automation/Home Automation.md",
+    "Guides/Home Automation/SharePoint Sync.md",
+    "Guides/Home Automation/Snapcast.md",
+    "Guides/Home Automation/Mopidy.md",
+    "Guides/Home Automation",
+    "Projects/Self Hosting.md",
+    "CheatSheets/Python.md",
+    "CheatSheets/Markdown.md",
+    "CheatSheets/MathJax.md",
+    "Manifesto/Fast Fashion.md",
+    "Manifesto/Manifesto.md",
+    "Untitled 1",
+    "Manifesto",
+    "Guides/Self Hosting.md",
+    "Linux/NixOS.md",
+    "Guides/Guide.md",
+    "Guides",
+    "readme.md",
+    "Linux/Linux.md",
+    "Linux",
+    "Projects/Project.md",
+    "Projects",
+    "Windows/July Installation.md",
+    "Windows/Windows Tips.md",
+    "Windows/Windows.md",
+    "ObsidianFiles/templates/YAMLHeader.md",
+    "ObsidianFiles/templates/Templates.md",
+    "CheatSheets/Cheat Sheet.md",
+    "CheatSheets",
+    "ObsidianFiles/templates",
+    "ObsidianFiles/attachments",
+    "ObsidianFiles"
+  ]
+}
