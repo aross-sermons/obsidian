@@ -17,7 +17,6 @@ tags:
 - [I2S Stereo DAC](https://www.amazon.com/dp/B0D21V91ZF/?coliid=I27411OG32M2UD&colid=I598WYJ4G994&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it) - $8.29 from Amazon
 - Breadboard and Jumper Wires
 - Speaker with 3.5mm Input
-**Software**
 ### v0.? - Audio Over Serial
 **Objective**
 - Play audio files with a wired connection.
@@ -33,12 +32,17 @@ tags:
 **Objective**
 - Design and manufacture a case for a finished product.
 **Considerations**
-- Access to ESP32 USB-C port.
-- Access to Stereo DAC 3.5mm port.
-- USB-C power or hard wired power?
-- Custom PCB?
+- 3D Printed Prototypes.
+- Access to 3.5mm audio output.
+- Built-in extension cord.
+- Soldered PCB base.
 **Components**
 **Software**
 ### v1.0 - Reproduceable Product
 **Objective**
 - Assemble components into an easily reproduceable product.
+### v2.0 - Multi-Room Playback
+**Objective**
+- Add functionality for synchronized playback.
+**Considerations**
+- 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CheatSheets/MathJax.md",
+                "file": "Windows/July Installation Desktop.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,34 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Home Automation.md",
+                "file": "Windows/July Installation.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "4a049981fcbb8de0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Manifesto/Fast Fashion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e187d495c13c48c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "65c9bdf135b612b9",
@@ -119,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manifesto/Fast Fashion.md",
+                "file": "Windows/July Installation Desktop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Manifesto/Fast Fashion.md",
+                "file": "Windows/July Installation Desktop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Manifesto/Fast Fashion.md"
+                "file": "Windows/July Installation Desktop.md"
               }
             }
           },
@@ -201,42 +179,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a049981fcbb8de0",
+  "active": "a009031ccfad8ed2",
   "lastOpenFiles": [
+    "Windows/July Installation.md",
+    "Windows/Windows Tips.md",
+    "Windows/Windows.md",
+    "Windows/July Installation Desktop.md",
+    "Guides/MicroPython IDE.md",
     "Projects/ESP32 Wireless Audio.md",
+    "Research/Synchronized Playback.md",
     "Projects/Home Automation.md",
-    "Guides/Home Automation/Home Assist.md",
+    "Projects/DnD.md",
+    "Research/Research.md",
+    "Projects/Project Ideas.md",
+    "Research",
+    "Guides/Self Hosting.md",
+    "Projects/Self Hosting.md",
     "Guides/Home Automation/Home Automation.md",
+    "CheatSheets/MathJax.md",
+    "Manifesto/Fast Fashion.md",
+    "Guides/Home Automation/Home Assist.md",
     "Guides/Home Automation/SharePoint Sync.md",
     "Guides/Home Automation/Snapcast.md",
     "Guides/Home Automation/Mopidy.md",
     "Guides/Home Automation",
-    "Projects/Self Hosting.md",
     "CheatSheets/Python.md",
     "CheatSheets/Markdown.md",
-    "CheatSheets/MathJax.md",
-    "Manifesto/Fast Fashion.md",
     "Manifesto/Manifesto.md",
     "Untitled 1",
     "Manifesto",
-    "Guides/Self Hosting.md",
     "Linux/NixOS.md",
     "Guides/Guide.md",
     "Guides",
     "readme.md",
-    "Linux/Linux.md",
     "Linux",
-    "Projects/Project.md",
     "Projects",
-    "Windows/July Installation.md",
-    "Windows/Windows Tips.md",
-    "Windows/Windows.md",
-    "ObsidianFiles/templates/YAMLHeader.md",
-    "ObsidianFiles/templates/Templates.md",
-    "CheatSheets/Cheat Sheet.md",
     "CheatSheets",
     "ObsidianFiles/templates",
-    "ObsidianFiles/attachments",
-    "ObsidianFiles"
+    "ObsidianFiles/attachments"
   ]
 }

@@ -9,6 +9,7 @@ tags:
 ### Hardware
 - [Canakit Rpi 5](https://www.canakit.com/canakit-raspberry-pi-5-starter-kit-turbine-black.html) - $139.95
 - [Zooz 800 Series Transmitter USB](https://www.amazon.com/Z-Wave-ZST39-Assistant-HomeSeer-Software/dp/B0BW171KP3/ref=asc_df_B0BW171KP3?tag=bngsmtphsnus-20&linkCode=df0&hvadid=80814247623884&hvnetw=s&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4584413759267712&th=1) - $36.95
+- [[ESP32 Wireless Audio]]
 ### Software
 **Raspberry Pi OS Lite**
 - Flash using Raspberry Pi imager
@@ -50,6 +51,7 @@ tags:
 - Performance Options > GPU Memory; set to a lower value
 ### Docker
 **Start Containers**
+- Notes on the docker containers can be found in children of [[Guides/Home Automation/Home Automation|Home Automation]].
 - `git clone https://github.com/aross-sermons/homeserver`
 - `rm -rf homeserver/.git`
 - `docker-compose -d up --build`

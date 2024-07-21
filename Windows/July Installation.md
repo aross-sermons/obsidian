@@ -5,6 +5,11 @@ parent:
 aliases: 
 tags:
 ---
+### Steps on Startup
+1. Get chocolatey
+2. Get Opera with Chocolatey
+3. Run debloater: https://christitus.com/windows-tool/
+4. Install everything else.
 ### Chocolatey Managed Apps  
 - `choco install -y powertoys obsidian notepadplusplus.install vscode.install spotify discord microsoft-openjdk17 procexp procmon autoruns ccleaner 7zip.install dellcommandupdate wget python312 onedrive virtualbox nano microsoft-windows-terminal missionplanner`
 - `choco install opera --params '"/NoAutostart /NoDesktopShortcut"'`
