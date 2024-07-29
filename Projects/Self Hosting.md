@@ -5,7 +5,10 @@ parent:
 aliases:
   - Home Server
 tags:
+  - complete
 ---
+### Self Hosting
+Instructions on how to host websites and games on a dedicated server.
 ### Domain
 **Namecheap**
 - andrewrs.us registered on namecheap

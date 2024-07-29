@@ -4,7 +4,11 @@ parent:
   - "[[Project]]"
 aliases: 
 tags:
+  - incomplete
+  - wip
 ---
+### DnD
+A note file containing instructions for a future DnD campaign.
 ### Parameters
 **Leveling** - Milestone
 - All players will level up together.

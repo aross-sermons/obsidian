@@ -5,7 +5,11 @@ parent:
 aliases:
   - Wireless Speaker
 tags:
+  - incomplete
+  - abandoned
 ---
+### ESP32 Wireless Audio
+A project guide and timeline for wireless audio access points using ESP32 Dev Kits.
 ### Project
 **Project Objective**
 - Use Raspberry Pi to play audio wirelessly over a WiFi network using ESP32.

@@ -13,25 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/July Installation Desktop.md",
+                "file": "Programming/Library/Library.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f3cbf7bff1606fc9",
+            "id": "d3d436453f276ab5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/July Installation.md",
+                "file": "Programming/Library/Python/Singly Linked List.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "d7e3d6d7fe4fbc67",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/July Installation Desktop.md",
+                "file": "Programming/Library/Python/Singly Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/July Installation Desktop.md",
+                "file": "Programming/Library/Python/Singly Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/July Installation Desktop.md"
+                "file": "Programming/Library/Python/Singly Linked List.md"
               }
             }
           },
@@ -179,43 +188,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a009031ccfad8ed2",
+  "active": "d3d436453f276ab5",
   "lastOpenFiles": [
-    "Windows/July Installation.md",
+    "Programming/Library/Python/Integer Manipulation.md",
+    "Programming/Library/Python/Doubly Linked List.md",
+    "Programming/Library/Python/Singly Linked List.md",
+    "Programming/Library/Library.md",
+    "readme.md",
     "Windows/Windows Tips.md",
     "Windows/Windows.md",
     "Windows/July Installation Desktop.md",
-    "Guides/MicroPython IDE.md",
-    "Projects/ESP32 Wireless Audio.md",
+    "Windows/July Installation.md",
     "Research/Synchronized Playback.md",
-    "Projects/Home Automation.md",
-    "Projects/DnD.md",
     "Research/Research.md",
-    "Projects/Project Ideas.md",
-    "Research",
-    "Guides/Self Hosting.md",
     "Projects/Self Hosting.md",
-    "Guides/Home Automation/Home Automation.md",
+    "Projects/Project Ideas.md",
+    "Projects/Project.md",
+    "Projects/Home Automation.md",
+    "Projects/ESP32 Wireless Audio.md",
+    "Projects/DnD.md",
+    "Programming/Programming.md",
+    "Programming/Coding Challenges/Linked Lists.md",
+    "Political Studies/Declining Birth Rates.md",
+    "Political Studies/Political Studies.md",
+    "Political Studies/Fast Fashion.md",
+    "Programming/Coding Challenges/Concatenation.md",
+    "Programming/Coding Challenges/Coding Challenge.md",
     "CheatSheets/MathJax.md",
-    "Manifesto/Fast Fashion.md",
-    "Guides/Home Automation/Home Assist.md",
-    "Guides/Home Automation/SharePoint Sync.md",
-    "Guides/Home Automation/Snapcast.md",
-    "Guides/Home Automation/Mopidy.md",
-    "Guides/Home Automation",
-    "CheatSheets/Python.md",
     "CheatSheets/Markdown.md",
-    "Manifesto/Manifesto.md",
+    "Programming/Library/Python",
+    "Programming/Library",
+    "Programming/Coding Challenges",
+    "Programming",
+    "Research",
+    "Guides/Home Automation",
     "Untitled 1",
-    "Manifesto",
-    "Linux/NixOS.md",
-    "Guides/Guide.md",
+    "Political Studies",
     "Guides",
-    "readme.md",
-    "Linux",
-    "Projects",
-    "CheatSheets",
-    "ObsidianFiles/templates",
-    "ObsidianFiles/attachments"
+    "Linux"
   ]
 }

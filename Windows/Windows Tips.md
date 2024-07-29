@@ -6,7 +6,9 @@ aliases:
   - Windows Tricks
 tags: []
 ---
-## Helpful Software
+### Windows Tips
+Tips and tricks for making Windows more enjoyable.
+### Helpful Software
 **Helpful Software**
 - Wintoys
 - Chocolatey

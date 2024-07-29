@@ -5,7 +5,11 @@ parent:
 aliases:
   - Home Assist
 tags:
+  - incomplete
+  - wip
 ---
+### Home Automation
+Notes on how to configure and use open source home automation software and technology.
 ### Hardware
 - [Canakit Rpi 5](https://www.canakit.com/canakit-raspberry-pi-5-starter-kit-turbine-black.html) - $139.95
 - [Zooz 800 Series Transmitter USB](https://www.amazon.com/Z-Wave-ZST39-Assistant-HomeSeer-Software/dp/B0BW171KP3/ref=asc_df_B0BW171KP3?tag=bngsmtphsnus-20&linkCode=df0&hvadid=80814247623884&hvnetw=s&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4584413759267712&th=1) - $36.95

@@ -5,7 +5,10 @@ parent:
 aliases: 
 tags:
   - vs-code
+  - incomplete
 ---
+### MicroPython IDE
+A guide to setting up an IDE for MicroPython and ESP32 Dev Kits.
 ### Prerequisites - Windows 11
 **Applications**
 - Python

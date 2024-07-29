@@ -4,7 +4,10 @@ parent:
   - "[[Guide]]"
 aliases: 
 tags:
+  - incomplete
 ---
+### Self Hosting
+Notes on self hosting from a meeting with an industry professional.
 ### Meeting Questions
 **Security**
 - How can I prevent bad actors from seeing my IP address?

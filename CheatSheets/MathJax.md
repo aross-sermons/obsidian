@@ -5,10 +5,11 @@ parent:
 aliases:
   - LaTeX
 tags:
+  - complete
 ---
-### What is MathJax?
+### MathJax
 Mathjax is a language similar to markdown used for typing mathematical expressions.
-## MathJax Cheat-Sheet
+### MathJax Cheat-Sheet
 https://www.bearnok.com/grva/it/knowledge/software/mathjax
 
 **Variables**

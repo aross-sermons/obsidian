@@ -4,7 +4,10 @@ parent:
   - "[[Windows]]"
 aliases: 
 tags:
+  - abandoned
 ---
+### July Installation
+Notes on the configuration of my laptop after resetting it in July 2024.
 ### Steps on Startup
 1. Get chocolatey
 2. Get Opera with Chocolatey
