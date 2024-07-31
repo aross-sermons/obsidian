@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Library/Python/Singly Linked List.md",
+                "file": "Cooking/Recipes.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Library/Python/Singly Linked List.md",
+                "file": "Cooking/Recipes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Library/Python/Singly Linked List.md",
+                "file": "Cooking/Recipes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Library/Python/Singly Linked List.md"
+                "file": "Cooking/Recipes.md"
               }
             }
           },
@@ -190,9 +190,16 @@
   },
   "active": "d3d436453f276ab5",
   "lastOpenFiles": [
+    "Cooking/Cooking Guidelines.md",
+    "Cooking/Recipes.md",
+    "Cooking/Cooking.md",
+    "Programming/Coding Challenges/Linked Lists.md",
+    "Cooking",
+    "Programming/Coding Challenges/Integer Manipulation Challenge.md",
+    "Programming/Coding Challenges/Coding Challenge.md",
+    "Programming/Library/Python/Singly Linked List.md",
     "Programming/Library/Python/Integer Manipulation.md",
     "Programming/Library/Python/Doubly Linked List.md",
-    "Programming/Library/Python/Singly Linked List.md",
     "Programming/Library/Library.md",
     "readme.md",
     "Windows/Windows Tips.md",
@@ -208,14 +215,8 @@
     "Projects/ESP32 Wireless Audio.md",
     "Projects/DnD.md",
     "Programming/Programming.md",
-    "Programming/Coding Challenges/Linked Lists.md",
     "Political Studies/Declining Birth Rates.md",
     "Political Studies/Political Studies.md",
-    "Political Studies/Fast Fashion.md",
-    "Programming/Coding Challenges/Concatenation.md",
-    "Programming/Coding Challenges/Coding Challenge.md",
-    "CheatSheets/MathJax.md",
-    "CheatSheets/Markdown.md",
     "Programming/Library/Python",
     "Programming/Library",
     "Programming/Coding Challenges",
@@ -224,7 +225,6 @@
     "Guides/Home Automation",
     "Untitled 1",
     "Political Studies",
-    "Guides",
-    "Linux"
+    "Guides"
   ]
 }
