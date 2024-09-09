@@ -8,39 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a009031ccfad8ed2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Library/Library.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d3d436453f276ab5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cooking/Recipes.md",
+                "file": "Classes/Class.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d7e3d6d7fe4fbc67",
+            "id": "130c50ef66b492f6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CheatSheets/Pandas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fa46a66a0eee70f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/CS-430 - Machine Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65aa5a3f7080d11d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/CS-310 - Operating Systems.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -90,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "65c9bdf135b612b9",
@@ -106,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cooking/Recipes.md",
+                "file": "Classes/CS-310 - Operating Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cooking/Recipes.md",
+                "file": "Classes/CS-310 - Operating Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cooking/Recipes.md"
+                "file": "Classes/CS-310 - Operating Systems.md"
               }
             }
           },
@@ -188,43 +205,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3d436453f276ab5",
+  "active": "65aa5a3f7080d11d",
   "lastOpenFiles": [
-    "Cooking/Cooking Guidelines.md",
-    "Cooking/Recipes.md",
-    "Cooking/Cooking.md",
-    "Programming/Coding Challenges/Linked Lists.md",
-    "Cooking",
-    "Programming/Coding Challenges/Integer Manipulation Challenge.md",
-    "Programming/Coding Challenges/Coding Challenge.md",
-    "Programming/Library/Python/Singly Linked List.md",
-    "Programming/Library/Python/Integer Manipulation.md",
-    "Programming/Library/Python/Doubly Linked List.md",
-    "Programming/Library/Library.md",
-    "readme.md",
-    "Windows/Windows Tips.md",
-    "Windows/Windows.md",
-    "Windows/July Installation Desktop.md",
-    "Windows/July Installation.md",
-    "Research/Synchronized Playback.md",
-    "Research/Research.md",
-    "Projects/Self Hosting.md",
+    "Classes/CS-310 - Operating Systems.md",
+    "Classes/THEO-420 - Christian Ethics.md",
+    "Classes/THEO-450 - Moral Issues in Healthcare.md",
+    "Classes/CS-300 - Database Management Systems.md",
+    "CheatSheets/SQL.md",
     "Projects/Project Ideas.md",
     "Projects/Project.md",
     "Projects/Home Automation.md",
-    "Projects/ESP32 Wireless Audio.md",
     "Projects/DnD.md",
-    "Programming/Programming.md",
-    "Political Studies/Declining Birth Rates.md",
+    "Projects/ESP32 Wireless Audio.md",
+    "CheatSheets/Pandas.md",
+    "CheatSheets/Markdown.md",
+    "Classes/CS-430 - Machine Learning.md",
+    "Classes/Class.md",
+    "Classes/SPAN-102 - Into to Spanish II.md",
+    "Classes/THEO-420 - Cheat Sheet.md",
+    "Classes/CheatSheets",
+    "Projects/Getting Hired.md",
+    "Cooking/Ramen.md",
+    "Classes",
+    "Programming/Library/Library.md",
+    "ObsidianFiles/templates/Job Listing.md",
+    "Political Studies/Climate Denier's Playbook.md",
     "Political Studies/Political Studies.md",
+    "Political Studies/Fast Fashion.md",
+    "Political Studies/Trump.md",
+    "Cooking/Recipes.md",
+    "Guides/Tarocchi Neoclassico.md",
+    "Cooking",
     "Programming/Library/Python",
     "Programming/Library",
     "Programming/Coding Challenges",
     "Programming",
     "Research",
     "Guides/Home Automation",
-    "Untitled 1",
-    "Political Studies",
-    "Guides"
+    "Untitled 1"
   ]
 }
