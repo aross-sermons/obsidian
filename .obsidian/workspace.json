@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d3d436453f276ab5",
+            "id": "7fa46a66a0eee70f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Class.md",
+                "file": "CheatSheets/Rust.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Rust"
             }
           },
           {
@@ -25,26 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CheatSheets/Pandas.md",
+                "file": "Classes/THEO-420 - Christian Ethics.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "THEO-420 - Christian Ethics"
             }
           },
           {
-            "id": "7fa46a66a0eee70f",
+            "id": "dce3e7e955433bca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/CS-430 - Machine Learning.md",
+                "file": "Classes/THEO-450 - Moral Issues in Healthcare.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "THEO-450 - Moral Issues in Healthcare"
             }
           },
           {
-            "id": "65aa5a3f7080d11d",
+            "id": "b2ceadac527f6280",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/THEO-450 - Contemporary Catholic Healthcare Ethics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "THEO-450 - Contemporary Catholic Healthcare Ethics"
+            }
+          },
+          {
+            "id": "014a2606fc5d97d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,11 +72,39 @@
                 "file": "Classes/CS-310 - Operating Systems.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "CS-310 - Operating Systems"
+            }
+          },
+          {
+            "id": "9b97aedbf64ad6b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/CS-300 - Database Management Systems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CS-300 - Database Management Systems"
+            }
+          },
+          {
+            "id": "a1d5330da8ee67d7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -76,7 +124,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -91,7 +141,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -99,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -123,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/CS-310 - Operating Systems.md",
+                "file": "CheatSheets/Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +185,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Rust"
             }
           },
           {
@@ -140,10 +196,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/CS-310 - Operating Systems.md",
+                "file": "CheatSheets/Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Rust"
             }
           },
           {
@@ -154,7 +212,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -163,8 +223,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/CS-310 - Operating Systems.md"
-              }
+                "file": "CheatSheets/Rust.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Rust"
             }
           },
           {
@@ -176,7 +238,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -184,7 +248,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -205,36 +271,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65aa5a3f7080d11d",
+  "active": "a1d5330da8ee67d7",
   "lastOpenFiles": [
     "Classes/CS-310 - Operating Systems.md",
-    "Classes/THEO-420 - Christian Ethics.md",
-    "Classes/THEO-450 - Moral Issues in Healthcare.md",
+    "CheatSheets/Rust.md",
+    "CheatSheets/Python.md",
+    "CheatSheets/Cheat Sheet.md",
+    "CheatSheets/Pandas.md",
+    "Guides/How To Start A Commune.md",
     "Classes/CS-300 - Database Management Systems.md",
+    "Classes/Class.md",
     "CheatSheets/SQL.md",
+    "Classes/THEO-450 - Moral Issues in Healthcare.md",
+    "Classes/THEO-420 - Christian Ethics.md",
+    "Classes/THEO-450 - Contemporary Catholic Healthcare Ethics.md",
+    "Classes/CS-430 - Cheat Sheet.md",
+    "Classes/CS-430 - Machine Learning.md",
+    "Classes/THEO-420 - Cheat Sheet.md",
+    "CheatSheets/MathJax.md",
     "Projects/Project Ideas.md",
     "Projects/Project.md",
     "Projects/Home Automation.md",
     "Projects/DnD.md",
     "Projects/ESP32 Wireless Audio.md",
-    "CheatSheets/Pandas.md",
     "CheatSheets/Markdown.md",
-    "Classes/CS-430 - Machine Learning.md",
-    "Classes/Class.md",
     "Classes/SPAN-102 - Into to Spanish II.md",
-    "Classes/THEO-420 - Cheat Sheet.md",
     "Classes/CheatSheets",
     "Projects/Getting Hired.md",
     "Cooking/Ramen.md",
     "Classes",
     "Programming/Library/Library.md",
-    "ObsidianFiles/templates/Job Listing.md",
-    "Political Studies/Climate Denier's Playbook.md",
-    "Political Studies/Political Studies.md",
-    "Political Studies/Fast Fashion.md",
-    "Political Studies/Trump.md",
-    "Cooking/Recipes.md",
-    "Guides/Tarocchi Neoclassico.md",
     "Cooking",
     "Programming/Library/Python",
     "Programming/Library",

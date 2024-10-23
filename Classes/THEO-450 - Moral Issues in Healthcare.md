@@ -25,6 +25,34 @@ tags:
 **Which plan has the smallest provider network?**
 - HMO
 - Not HDHP or PPO
+### 9/16/24
+**Which of the following is not true about the ACA?**
+- We are spending less on health care than in previous years.
+### 9/23/24
+**Which of the following is false?
+-  Only Christians are made in the image of God.
+**What is not an effect of incarnation?**
+- Completelt wipes away sin from us forever.
+### 9/25/24
+**Which of the following is true about holism?
+- The principle of totality can be used to contribute to the healing of the body of the whole humanity. (Like organ donation)
+- NOT The individual should suffer for the greater whole.
+**Which of the following statements is true?**
+- Reductionists see only a selected number of people with sufficient quality of life to recieve health care.
+### 9/30/24
+**Which of the following factors is NOT a consideration for natural determinism?**
+- Divine
+**Which of the following is NOT an example of non-natural determinism?**
+- Racism (structural, not supernatural)
+**What limits free will?**
+- Passion, Ignorance, and Fear (All of these)
+### 10/2/24
+**Which of the following is not part of normative ethics?**
+- Meaning of Ethics
+**Which of the following is not a deontological method?**
+- Inductive approach
+**Which of the following descriptions of universal consequentialism is least accurate?**
+- The ends justify the means
 ### Policies
 **Email** - Make sure all other resources are exhausted before emailing.
 ### Possible Research Projects
@@ -102,4 +130,112 @@ tags:
 **Health Mainenance Organization (HMO)** - 
 **Preferref Provider Organization (PPO)**
 **High-Deductible Health Plan (HDHP)**
-## Lecture 3
+## Lecture 4 - Our Healthcare System, Contd.
+### Spending in Perspective
+**2011 Healthcare Spending**
+- France spend $3 trillion for 66 million people on everything (GDP).
+- US spent an equivalent on healthcare alone.
+- US Healthcare System = 5th Largest World Economy
+- Leading up to Affordable Care Act (2009-2010), healthcare spending rose by $100 billion.
+### Who are the Uninsured?
+**Arguments Against "Freeloaders"**
+	Some groups are targeted as "lazy" who don't work or don't pay taxes. They are assumed to want free stuff and free stuff only. It is often argued that uninsured people fit into this category.
+**Typical Uninsured American** - Statistics from Kaiser Family Foundation, 2010
+- White - 14%
+- African American - 23%
+- Hispanic - 30%
+- More than 3/4 in working families.
+## Lecture 5 - After the ACA
+**Spending Changes**
+- Rate of increase decreases, this statistic is emphasized.
+- The amount spent is sill increasing.
+**Blindspots**
+- There are people who are barely below the line, who have more difficulty paying for the plans.
+- People of color are unequally affected.
+- There are still ~20 million uninsured.
+- Changes may be rolled back in future administrations.
+## Alternative to US Healthcare
+### Trump's Alternative
+**Replacement**
+- Similar work to ACA, not a full/clean repeal.
+- **American Health Care Act** is what makes changes to ACA.
+- Tax Credit Changes
+	- ACA: Calculate with insurance costs and income. A town with high cost insurance and low income would get a higher tax credit.
+	- AHCA: Flat, age-based rate. More people qualify but its not scaled to income. Less generous to some, more generous to others.
+**Benefits of AHCA**
+- Young, healthy people may find cheaper plans.
+- Lower insurance cost may mean a higher tax credit.
+- **No Mandate** - If you don't want insurance, you don't have to get it.
+- Lower taxes for higher earners ($200k individuals, $250k couples).
+- Cut back on government spending by pulling back extra funding for poor.
+**Financial Incentive to Buy Insurance** - Even though it is no longer mandated, buying in later in life is more expensive. You benefit from buying insurance at a younger age, but it's still your choice.
+**How much will it cost?** - Nobody knows, literally. They pushed their plan without getting a non-partisan (CBO) estimation.
+**Estimations of Benefits**
+- AHCA will reduce defecit (non-partisan issue) up to $337 billion by 2026.
+- Savings come from reducing spending on health programs for low-income Americans by $880 billion over the next decade.
+- 14 million to 24 million people would lose coverage.
+	- BUT They can "choose to buy it back" with the HSA (Health Savings Account).
+	- BUT some people can't afford to save money like that.
+**Who Supported AHCA?** - The people who stood to lose the most.
+**Changes to ACA**
+- Medicaid would no longer cover mental health and addiction services.
+## Lecture 7 - The Integrity of the Human Soul
+### Two Extremes of Suffering
+**Divine Sovereignty** - God rules over human existence.
+- No matter what you do, bad things may still happen.
+- While it isn't always understandable, we must accept it.
+**Redemptive Suffering** - Suffering has meaning or redeemable aspects.
+- Suffering teaches you about yourself and your world.
+- There are positive outcomes to be gained from suffering.
+**Combination**
+- Accept suffering as part of life. Learn from it and know that you can't/shouldn't always fight it.
+- Humans are coagents with God with a mission to alleviate suffering and despair in the world.
+- So, both accept suffering and fight against it.
+### Dualism - Form and Matter
+**Form** - The mind/spirit.
+- Trustworthy
+- Associated with God.
+- Associated with Men.
+**Matter** - The physical body.
+- Susceptible to temptation.
+- Associated with Satan.
+- Associated with Women.
+**Problems**
+- Too much distinction on one can harm the other.
+## Religion and Healthcare
+### Key Terms
+***Imago dei*** - Image of God
+- Humans are made in the image of God.
+**Theological Anthropology** - The sceintific study of humanity with concern for theological influences.
+**Alien Dignity** - Dignity that comes from outside of humanity (God).
+**Natural Law** - Rules based on human reasoning.
+## Lecture 8
+### Moral Accountability
+**Determinism** - All actions are predetermined.
+- **Non-Natural** - People who use spiritual or divine influences to support their deterministic views.
+
+TULIP acronym for protestants
+
+## Lecture 9
+### Deontology and Categorical Imperative
+**Deontology** - Duty or obligation.
+- The decisions you make are based on your duty to humanity.
+- Proposed by Immanuel Kant.
+- The most honorable action is one that is not preferred but is done because it follows a categorical imperative.
+**The Categorical Imperative** - In any scenario, the decision to be made is based on some higher rule (the categorical imperative). This rule is steadfast and all encompassing.
+**Formalists** - Proponents of these theories are called formalists.
+***A Priori*** - Decisions are made prior to emotion and interference, based on initial rules.
+**Disadvantages**
+- Takes advantage of victims.
+	- Victims tend to be more emotionallu invested, but this system rejects emotions in favor of a universal truth. This benefits oppressive systems.
+	- Who makes the rules?
+### Teleology and Consequentialism
+**Teleology** - Goal or outcome.
+- The decisions you make are based on the outcome of those actions.
+- Proposed by Bentham and J.S. Mills.
+**Consequentialism** - In any scenario, the decision to be made is based on the potential outcome of any action. Better decisions make better outcomes.
+**Utilitarianism** - A form of consequentialism focued on the greatest good for the greatest number.
+***A Posteriori*** - Decisions are made after calculating potential outcomes.
+**Disadvantages**
+- Takes advantage of minority populations.
+	- The existence of a greatest good for a greatest number implies the sacrifice of the minority number.

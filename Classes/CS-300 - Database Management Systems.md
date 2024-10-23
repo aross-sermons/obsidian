@@ -15,6 +15,18 @@ tags:
 - Office Hours - M/W 11 AM to 12:30 PM
 **Location** - Pasteur 106
 **Time** - T/R 3:05-4:20 PM
+## Dictionary
+### Relational Model Terms
+- Attribute
+- Domain
+- Relational Model
+- Relation
+- Constraints
+- Referential Integrity Constraints
+### SQL Terms
+- Table - Equivalent to a relation.
+- Row - Equivalent to a 
+- Column
 ## Day One
 **Terminology and Abbreviations**
 - RM/RDM - Relational (Data) Model
@@ -203,11 +215,93 @@ tags:
 **SQL Database**
 - Identified by a database/schema name.
 - Includes descriptors for each element.
+**Catalog**
+- A named collection of SQL databases.
 **Database Elements**
 - Tables, constraints, views, domains, etc.
 **Syntax**
 - Every SQL statement ends with a semicolon.
-### Statements
-**`USE <DATABASE_NAME>`** - Specifies a default database for future commands to use.
-- Not required, but helpful for avoiding repeatedly referencing a database that will be interacted with regularly.
-**`CREATE TABLE <TABLE_NAME>`** - Creates a new table with the provided name and columns.
+### SQL Elements
+**Fundamental Constraints**
+- **Key** - Duplicate primary key values cannot exist in two rows within a table.
+- **Entitiy Integrity** - A primary key value cannot be null.
+- **Referential Integrity** - The foreign key must have a value that is already present as a primary key in the referenced table.
+**Primary Keys**
+- May defined as either...
+	- `SSN INT PRIMARY KEY, ...`
+	- `SSN INT, ... PRIMARY KEY(SSN)`
+	- BUT the first method does not work for composite keys.
+- Primary keys can't be null. Using `NOT NULL` is not required but recommended.
+- Every table in this class must have a primary key.
+**Secondary Keys** - Also known as candidate keys.
+- Can be simple (1 attribute) or composite (2 or more attributes).
+- Secondary keys include the `UNIQUE` keyword.
+**Foreign Keys**
+- Used to create referential integrity constraints.
+- May be defined as...
+	- `SSN INT, ... FOREIGN KEY(SSN) REFERENCES <TABLE>(<ATTRIBUTE>)`
+	- Cannot be defined in an attribute's definition.
+	- Must be established in the referencing table.
+- Forgein keys may reference attributes from the same table.
+**Naming Constraints** - Constraints can be named using the CONSTRAINT keyword.
+- `CONSTRAINT FKssn FOREIGN KEY(ssn) REFERENCES <TABLE>(<ATTRIBUTE>)`
+## Session 6
+### Database Queries
+**What is a Database Query?** - A command or script dispatched to a DBMS intended to retrieve information about or stored in the database.
+**Statement v Clause**
+- **Statement** - A complete command executable by a DBMS.
+- **Clause** - A component of a statement.
+**SELECT Statement** - Fundamental database query statement.
+- Can be combined with clauses to create a more specific request.
+**SELECT Query Structure**
+- SELECT -> FROM -> WHERE -> GROUP BY -> HAVING -> ORDER BY
+- But can be as simple as SELECT -> FROM
+## Session 7
+### JOINs
+**JOINs In The FROM Clause**
+## Session 10
+### UPDATE Statements
+**UPDATE Sytnax**
+```
+UPDATE <table_name> # The table to update
+SET <column_name>=<new_value> # The column to update and value to set
+[WHERE <where_condition>] # Optional where conditions
+```
+**UPDATE Syntax Notes**
+- Multiple SET statements can be used in a comma-separated list.
+- Omittin WHERE will apply the update to all rows in the given table.
+- A simple way to update a single row is to use a key in the WHERE condition.
+**UPDATE Concerns**
+- Modifying a column that is referenced as a foreign key can break connections.
+**ON UPDATE...** - The answer to UPDATE concerns.
+- ...SET NULL - Sets referencing columns to NULL on update.
+- ...SET DEFAULT - Sets referencing columns to a default value on update.
+- ...CASCADE - Sets referencing columns to the updated value.
+### Sentinel Rows
+## Session 14 - Database Design and ER Basics
+### Phases of the Database Design Process
+**Step 1: Requirements Collection and Analysis Process**
+- Establishing what, when, and how information needs to be processed.
+- Includes concerns related to data collection.
+- May consist of meeting with clients, dev teams, and other interested parties.
+**Step 2: Conceptual Design**
+- Consolidating the requirements from step 1 into a coherent construction plan.
+- Synthesize a **high-level schema**, which includes the various external schemas as well as a high-level view of the logical schema.
+- Includes specific entities and relationships.
+**Step 3: Logical Design**
+- Breaking apart the high-level schema into an implementation-ready detail set.
+- Requires the creation of documentation and/or diagrams.
+### Conceptual Design Methods
+**Entity Relationship (ER) Diagrams**
+**Enhanced Entity Relationship (EER) Diagrams**
+## Session 15 - ER Diagrams in Depth
+### Overview of the ER Model
+**Three Main Concepts**
+- Entities - Their types, and their sets
+- Attirbutes - Simple, composite, and multivalued
+- Relationships - Bind two or more entities together
+### Relationships in ER Models
+**Relationships** - A relationship related two or more distinct entities with a specific meaning.
+- Ex: EMPLOYEE John Smith **manages** DEPARTMENT Research.
+**Relationship Types** - Relationships of the same type are grouped or typed into a relationship type.
+- Ex: MANAGES relationship describes the previous example.
